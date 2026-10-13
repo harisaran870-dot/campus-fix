@@ -79,7 +79,7 @@ Traditional campus complaint systems are slow, opaque, and difficult to manage. 
 
 ## 🏆 Hackathon Credits
 
-Developed by **Hari Saran.M* & **Harini.G**, Team **HackNova**, for **Vibex1.0**.
+Developed by *Hari Saran.M* & **Harini.G**, Team **HackNova**, for **Vibex1.0**.
 
 ---
 
